@@ -5,7 +5,7 @@ Hi everyone,
     This is my new experiment. Just create a customized form of wordpress 3.5 image uploader. You can use this in your
 wordpress theme or plugin.
 
-Steps to follow (For testing):
+For Demo follow the steps:
 
 1. Just create a wordpress page in wordpress named "Test" and its slug should be test.
 2. Upload the file page-test.php in to your theme folder.
