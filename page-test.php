@@ -31,7 +31,7 @@
 		wp_enqueue_script('thickbox');
 		}?>
     <div class="uploader">
-      <input type="text" name="settings[_unique_name]" id="txt_imageurl" />
+      <input type="text" name="txt_imageurl" id="txt_imageurl" />
       <input type="button" class="button" name="btn_upload" id="btn_upload" value="Upload" />
     </div>
   </div>
